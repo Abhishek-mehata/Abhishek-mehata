@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhishek Mehata</h1>
 <h3 align="center">A passionate developer and coder from Nepal</h3>
 
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right"  alt="coding" width="400" >
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-mehata&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-mehata" /> </p>
 
 - 🌱 I’m currently learning **Backend Devlopment**
