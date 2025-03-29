@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-mehata&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-mehata" /> </p>
 
-- 🌱 I’m currently learning **Backend Devlopment**
+- 🌱 I’m currently learning **Frontend Devlopment**
 
 - 💬 Ask me about **Web Devlopment, Python , Javascript**
 
