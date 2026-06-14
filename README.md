@@ -63,6 +63,13 @@
 
 ---
 
+## 📈 GitHub Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-mehata&theme=tokyo-night&hide_border=true)
+
+
+---
+
 ## ✍️ Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
