@@ -62,10 +62,12 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-mehata&layout=compact&theme=tokyonight)
 
 ---
-
+<!--
 ## 📈 GitHub Activity Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-mehata&theme=tokyo-night&hide_border=true)
+
+-->
 
 
 ---
