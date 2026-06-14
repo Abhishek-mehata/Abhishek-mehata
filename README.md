@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Abhishek
 
-🚀 Aspiring Backend Developer | Node.js Enthusiast | Future AI Engineer
+🚀 Aspiring Full-Stack Developer | React & Node.js Enthusiast | Future AI Engineer
 
 ---
 
@@ -13,13 +13,14 @@ Backend development using **Node.js** and **Express.js**, building real-world AP
 How to design scalable backend systems, work with databases (**MongoDB + Mongoose**), and strengthen my problem-solving skills in **JavaScript and Python**.
 
 ## 👯 I’m looking to collaborate on
-Interesting real-world projects, especially in backend development, full-stack applications, and API-based systems.
+Interesting real-world projects, especially full-stack applications, backend systems, and API-based platforms.
 
 ## 🤝 I’m looking for help with
 Improving system design thinking, backend best practices, and building production-ready scalable projects.
 
 ## 💬 Ask me about
 - JavaScript (Vanilla JS, Node.js)
+- React.js (Frontend development)
 - Python basics and problem solving
 - Backend development with Express.js
 - REST API development
@@ -38,15 +39,15 @@ I enjoy turning ideas into real working projects — even if it starts with mess
 
 # 💻 Tech Stack
 
-## Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
 ## Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
+## Backend
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## Programming Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
