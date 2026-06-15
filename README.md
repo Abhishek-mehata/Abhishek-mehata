@@ -1,6 +1,6 @@
 # ⚡ Abhishek Mehata
 
-🚀 Full-Stack Developer | React • Node.js • MongoDB | Future AI Engineer
+🚀 Full-Stack Developer | React • Node.js • MongoDB | Exploring AI & ML
 
 ---
 
@@ -12,7 +12,6 @@
 
 👯 I’m looking to collaborate on interesting real-world projects, especially full-stack applications, backend systems, and API-based platforms.
 
-🤝 I’m looking for help with improving system design thinking, backend best practices, and building production-ready scalable projects.
 
 💬 Ask me about:
 - JavaScript (Vanilla JS, Node.js)
